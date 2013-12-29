@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (C) 2014 Jacob Klinker
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.klinker.android.evolve_theme"
+          android:versionCode="1"
+          android:versionName="1.00">
+
+    <uses-sdk android:minSdkVersion="14"
+              android:targetSdkVersion="19"/>
+
+    <application
+            android:icon="@drawable/icon"
+            android:label="@string/app_name">
+
+        <!-- Specifies that this app is an EvolveSMS theme, do not change -->
+        <meta-data android:name="evolve_theme"
+                   android:value="version1"/>
+
+        <!-- Can be true or false, true means that the header pictures of each contact will be displayed at the top -->
+        <!-- false means that it will look more traditional with the actionbar at the top -->
+        <meta-data android:name="evolve_theme_headers"
+                   android:value="false" />
+
+        <!-- Can be true or false, true means that contact pictures will be shown for messages -->
+        <!-- false means that contact pictures will not be shown -->
+        <meta-data android:name="evolve_theme_contact_pictures"
+                   android:value="true" />
+
+        <!-- Can be true or false, true means that contact pictures will be round -->
+        <!-- false means that contact pictures will be square-->
+        <meta-data android:name="evolve_theme_round_contact_pictures"
+                   android:value="false" />
+
+        <!-- Can be true or false, true means that contact pictures will be shown for each and every message -->
+        <!-- false means that if the message above a received message is also received, then the 2nd received messages contact picture will not be shown -->
+        <!-- false also means that this second message will use the "received bubble" background instead of the "received background" drawable -->
+        <meta-data android:name="evolve_theme_show_duplicate_contact_pictures"
+                   android:value="true" />
+
+        <!-- Can be true or false, true means that messages will always have the date on them -->
+        <!-- false means that it will only show the date if it is more than 10 minutes apart from the last message -->
+        <meta-data android:name="evolve_theme_always_show_date"
+                   android:value="true" />
+
+        <!-- Can be true or false, true means that the message box should stretch from one side of the screen to the other -->
+        <!-- false means that the message boxes will be staggered when drawn with more padding on one side vs the other -->
+        <meta-data android:name="evolve_theme_message_fill_width"
+                   android:value="true" />
+
+        <!-- Needs to be a string resource that defines a color in hex, set the color of the divider between messages -->
+        <!-- if set to #00000000, then the divider will not be shown -->
+        <meta-data android:name="evolve_theme_divider_color"
+                   android:value="@string/divider_color" />
+
+        <!-- Needs to be a string resource that defines a color in hex, set the background color of the message screen -->
+        <meta-data android:name="evolve_theme_background_color"
+                   android:value="@string/background_color" />
+
+        <!-- Can be light, dark, or black, which defines the base theme you are building off of -->
+        <meta-data android:name="evolve_theme_base"
+                   android:value="light" />
+
+    </application>
+</manifest>
