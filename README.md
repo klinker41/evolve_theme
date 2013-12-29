@@ -13,14 +13,15 @@ This theme is just an example of what you can do with the theme engine for evolv
 <li>Compile the app and install it on your phone</li>
 <li>Set the theme in the Theme Settings section of EvolveSMS near the bottom</li>
 <li>Fix any problems with the theme and make it look perfect</li>
-<li>Put it up on the Google+ community for everyone to enjoy! [Google+ Community](https://plus.google.com/communities/101722781061844311332/stream/e88cabc6-1e5d-4fc3-8059-ed8d56d8ec20)</li>
+<li>Put it up on the Google+ community for everyone to enjoy! https://plus.google.com/communities/101722781061844311332/stream/e88cabc6-1e5d-4fc3-8059-ed8d56d8ec20</li>
 </ol>
 
-<p>For information on creating 9-patch files: [9-Patch](http://radleymarx.com/blog/simple-guide-to-9-patch/)</p>
+<p>For information on creating 9-patch files: http://radleymarx.com/blog/simple-guide-to-9-patch/</p>
 
 ---
 
 Don't hesitate to contact me if you have any questions!
+
 Email: klinkerapps@gmail.com
 
 ---
