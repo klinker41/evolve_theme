@@ -63,6 +63,21 @@ limitations under the License.
                 android:gravity="center_vertical"
                 android:orientation="vertical">
 
+            <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:layout_gravity="center_vertical"
+                    android:paddingRight="5dp"
+                    android:textSize="12sp"
+                    android:ellipsize="marquee"
+                    android:fadingEdge="horizontal"
+                    android:fontFamily="sans-serif-light"
+                    android:textColor="@color/dateColor"
+                    android:layout_marginTop="-3dp"
+                    android:paddingBottom="3dp"/>
+
             <ImageView
                     android:layout_width="200dp"
                     android:layout_height="200dp"
