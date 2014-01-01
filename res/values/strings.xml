@@ -18,7 +18,7 @@ limitations under the License.
 <resources>
 
     <!-- the name of your theme -->
-    <string name="app_name">Stock</string>
+    <string name="app_name">Stock Theme</string>
 
     <!-- the divider color for the message list, needs to be defined as a string -->
     <string name="divider_color">#02000000</string>
