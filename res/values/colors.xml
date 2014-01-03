@@ -17,10 +17,15 @@ limitations under the License.
 
 <resources>
 
+    <!-- You HAVE to include the first 4 defined colors always -->
     <!-- the text color drawn on the message for the body -->
-    <color name="textColor">#020202</color>
+    <color name="textColorSent">#020202</color>
+    <color name="textColorReceived">#020202</color>
 
     <!-- the text color drawn on the message for the date -->
-    <color name="dateColor">#555555</color>
+    <color name="dateColorSent">#555555</color>
+    <color name="dateColorReceived">#555555</color>
+
+    <!-- include any other colors you may want to use in your layout below -->
 
 </resources>
