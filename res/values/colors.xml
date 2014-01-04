@@ -17,7 +17,7 @@ limitations under the License.
 
 <resources>
 
-    <!-- You HAVE to include the first 6 defined colors always -->
+    <!-- You HAVE to include the first 8 defined colors always -->
     <!-- the text color drawn on the message for the body -->
     <color name="textColorSent">#020202</color>
     <color name="textColorReceived">#020202</color>
@@ -28,7 +28,15 @@ limitations under the License.
 
     <!-- the color of the background for the drawer -->
     <color name="drawerBackground">#ffffff</color>
+
+    <!-- the color of the conversation drawer text -->
     <color name="conversationTextColor">#020202</color>
+
+    <!-- the color of the dividers in the message list, setting to #00000000 will make them disappear -->
+    <color name="dividerColor">#02000000</color>
+
+    <!-- the background color for the conversations, this is what shows behind the messages -->
+    <color name="backgroundColor">#dddddd</color>
 
     <!-- include any other colors you may want to use in your layout below -->
 

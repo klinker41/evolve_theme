@@ -77,10 +77,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="colors.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="colors.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="3" selection-start="1120" selection-end="1172" vertical-scroll-proportion="0.86882454" vertical-offset="0" max-vertical-offset="680">
+            <state line="31" column="4" selection-start="1122" selection-end="1531" vertical-scroll-proportion="0.0" vertical-offset="229" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="42" selection-start="3245" selection-end="3245" vertical-scroll-proportion="1.1005111" vertical-offset="408" max-vertical-offset="1292">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="48" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -107,10 +125,10 @@
         <option value="$PROJECT_DIR$/res/drawable/sent_background_locked.xml" />
         <option value="$PROJECT_DIR$/res/drawable/sent_background_sending.xml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/message.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -390,7 +408,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -404,7 +422,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32637364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32637364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -459,7 +477,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159" />
+        <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
@@ -496,7 +516,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159" />
+        <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
@@ -526,7 +548,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904" />
+        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
@@ -556,7 +580,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904" />
+        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
@@ -662,13 +688,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="11" selection-start="615" selection-end="615" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="118" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="816" />
@@ -677,24 +696,33 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="34" selection-start="1745" selection-end="1749" vertical-scroll-proportion="0.6774744" vertical-offset="300" max-vertical-offset="1445">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="48" selection-start="4776" selection-end="4776" vertical-scroll-proportion="1.0765027" vertical-offset="1313" max-vertical-offset="2159" />
+        <state line="112" column="48" selection-start="4776" selection-end="4776" vertical-scroll-proportion="1.0765027" vertical-offset="1313" max-vertical-offset="2159">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="48" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="3" selection-start="1120" selection-end="1172" vertical-scroll-proportion="0.86882454" vertical-offset="0" max-vertical-offset="680">
+        <state line="31" column="4" selection-start="1122" selection-end="1531" vertical-scroll-proportion="0.0" vertical-offset="229" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="42" selection-start="3245" selection-end="3245" vertical-scroll-proportion="1.1005111" vertical-offset="408" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>

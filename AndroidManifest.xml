@@ -62,15 +62,6 @@ limitations under the License.
         <meta-data android:name="evolve_theme_message_fill_width"
                    android:value="true" />
 
-        <!-- Needs to be a string resource that defines a color in hex, set the color of the divider between messages -->
-        <!-- if set to #00000000, then the divider will not be shown -->
-        <meta-data android:name="evolve_theme_divider_color"
-                   android:value="@string/divider_color" />
-
-        <!-- Needs to be a string resource that defines a color in hex, set the background color of the message screen -->
-        <meta-data android:name="evolve_theme_background_color"
-                   android:value="@string/background_color" />
-
         <!-- Can be light, dark, or black, which defines the base theme you are building off of -->
         <meta-data android:name="evolve_theme_base"
                    android:value="light" />
