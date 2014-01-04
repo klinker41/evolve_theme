@@ -17,7 +17,7 @@ limitations under the License.
 
 <resources>
 
-    <!-- You HAVE to include the first 4 defined colors always -->
+    <!-- You HAVE to include the first 6 defined colors always -->
     <!-- the text color drawn on the message for the body -->
     <color name="textColorSent">#020202</color>
     <color name="textColorReceived">#020202</color>
@@ -25,6 +25,9 @@ limitations under the License.
     <!-- the text color drawn on the message for the date -->
     <color name="dateColorSent">#555555</color>
     <color name="dateColorReceived">#555555</color>
+
+    <!-- the color of the background for the drawer -->
+    <color name="drawerBackground">#ffffff</color>
 
     <!-- include any other colors you may want to use in your layout below -->
 
