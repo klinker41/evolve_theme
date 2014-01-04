@@ -28,6 +28,7 @@ limitations under the License.
 
     <!-- the color of the background for the drawer -->
     <color name="drawerBackground">#ffffff</color>
+    <color name="conversationTextColor">#020202</color>
 
     <!-- include any other colors you may want to use in your layout below -->
 
