@@ -20,4 +20,8 @@ limitations under the License.
     <!-- the name of your theme -->
     <string name="app_name">Stock Theme</string>
 
+    <!-- font family to use in texts -->
+    <!-- Options include sans-serif, sans-serif-light, sans-serif-condensed, and sans-serif-thin -->
+    <string name="font_family">sans-serif</string>
+
 </resources>
