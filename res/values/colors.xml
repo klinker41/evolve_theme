@@ -18,6 +18,10 @@ limitations under the License.
 <resources>
 
     <!-- You HAVE to include the first 8 defined colors always -->
+
+    <!-- Main theme color for various parts on the screen, more of these things will be added in the future -->
+    <color name="theme_color">#FF8800</color>
+    
     <!-- the text color drawn on the message for the body -->
     <color name="textColorSent">#020202</color>
     <color name="textColorReceived">#020202</color>
