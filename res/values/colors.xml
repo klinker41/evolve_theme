@@ -21,7 +21,7 @@ limitations under the License.
 
     <!-- Main theme color for various parts on the screen, more of these things will be added in the future -->
     <color name="theme_color">#FF8800</color>
-    
+
     <!-- the text color drawn on the message for the body -->
     <color name="textColorSent">#020202</color>
     <color name="textColorReceived">#020202</color>
@@ -29,6 +29,9 @@ limitations under the License.
     <!-- the text color drawn on the message for the date -->
     <color name="dateColorSent">#555555</color>
     <color name="dateColorReceived">#555555</color>
+
+    <!-- the link color for any links in a message text -->
+    <color name="link_color">#FF8800</color>
 
     <!-- the color of the background for the drawer -->
     <color name="drawerBackground">#ffffff</color>
