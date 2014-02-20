@@ -33,6 +33,9 @@ limitations under the License.
     <!-- the link color for any links in a message text -->
     <color name="link_color">#ff8800</color>
 
+    <!-- the message entry color is for any message entry areas in the main window and the new message window -->
+    <color name="messageEntryColor">#020202</color>
+
     <!-- the color of the background for the drawer -->
     <color name="drawerBackground">#ffffff</color>
 
