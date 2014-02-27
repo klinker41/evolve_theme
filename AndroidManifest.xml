@@ -66,5 +66,9 @@ limitations under the License.
         <meta-data android:name="evolve_theme_base"
                    android:value="light" />
 
+        <!-- can be light, dark, or default, which defines the icon to show in the actionbar inside the app -->
+        <meta-data android:name="evolve_actionbar_icon"
+                   android:value="default" />
+
     </application>
 </manifest>
