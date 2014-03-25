@@ -32,6 +32,7 @@ limitations under the License.
 
     <!-- the link color for any links in a message text -->
     <color name="link_color">#ff8800</color>
+    <color name="night_link_color">#ff8800</color>
 
     <!-- the message entry color is for any message entry areas in the main window and the new message window -->
     <color name="messageEntryColor">#020202</color>
@@ -47,6 +48,10 @@ limitations under the License.
 
     <!-- the background color for the conversations, this is what shows behind the messages -->
     <color name="backgroundColor">#dddddd</color>
+
+    <!-- the color of the dividers in the conversation list -->
+    <!--<color name="conversationDividerColor">#000000</color>-->
+    <!--<color name="night_conversationDividerColor">#000000</color>-->
 
     <!-- include any other colors you may want to use in your layout below -->
 
