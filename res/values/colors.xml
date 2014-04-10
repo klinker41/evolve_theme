@@ -54,6 +54,10 @@ limitations under the License.
     <!-- the color of the message entry hint, ie the text that says "type message" -->
     <color name="messageHintColor">#88020202</color>
 
+    <!-- the background color of a selected conversation in the conversation list (ie, the conversation -->
+    <!-- that the user is currently viewing -->
+    <color name="selectedConversationColor">#448e8e8e</color>
+
     <!-- include any other colors you may want to use in your layout below -->
 
 </resources>
