@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (C) 2014 Jacob Klinker
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<resources>
+
+    <!-- Can be edited to set a background to the sendbar. Please note that -->
+    <!-- this can also be set as a drawable in any of the drawable folders -->
+    <!-- with the name 'sendbar.png' or 'night_sendbar.png' and nine-patches -->
+    <!-- will also work correctly. I included it in a drawable resource file -->
+    <!-- though since I only wanted it to be a single color and didn't need -->
+    <!-- any more than that. Another note, I would avoid using this if you -->
+    <!-- conversation headers in your theme and are on KitKat with translucent -->
+    <!-- system bars because it looks awkward - it doesn't go behind the -->
+    <!-- navigation bar at the bottom or the emoji keyboard when it is on the -->
+    <!-- screen.                                                              -->
+    <drawable name="sendbar">@android:color/white</drawable>
+
+</resources>
