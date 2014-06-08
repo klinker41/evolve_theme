@@ -85,3 +85,5 @@ Libraries/ColorPickerPreference/module_colorpickerpreference.xml
 /gen
 Promo/Video/
 /gen
+.gradle/
+build/
